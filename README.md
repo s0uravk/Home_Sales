@@ -3,7 +3,7 @@
 ![Home_sales](https://github.com/s0uravk/Home_Sales/assets/144293972/df119c39-e0aa-4501-8932-6936c88e4b05)
 
 ## Introduction
-In this challenge, I used SparkSQL to determine key metrics about home sales data. Then used Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached. It highlights the use of temporary views, partition the data, cache the temporary view to optimize the queries to reduce runtime.
+In this challenge, I used SparkSQL to determine key metrics about home sales data. Then used Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached. It also highlights the use of temporary views, partition of data, caching the temporary view to optimize the queries to reduce runtime.
 
 ## Instructions
 1. Import the necessary PySpark SQL functions for this assignment.
